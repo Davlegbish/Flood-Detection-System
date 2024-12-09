@@ -1,6 +1,6 @@
 # Flood-Detection-System Using Ardiuno
 This is my final year project at Afebabalola University IOT Early Flood Detection System Using Arduino is an intelligent system that maintains a careful eye on many natural characteristics to predict a flood, so we may embrace caution ,and prevent the damage caused by the flood. Natural disasters, such as flooding, may cause extensive property damage and loss of life. The method uses several natural elements to 
-detect floods in order to prevent or mitigate their effects. Because the system includes a WiFi connection, its discovered data may be retrieved from anywhere pretty easily via IOT.To detect a flood the system observes various natural factors, which includes humidity, temperature, and water level and flow level. To collect data of mentioned natural factors the system consists of different sensors which collects data for individual parameters, for detecting water level using water level sensor.
+detect floods in order to prevent or mitigate their effects. Because the system includes a Wi-Fi connection, its discovered data may be retrieved from anywhere pretty easily via IOT.To detect a flood the system observes various natural factors, which includes humidity, temperature, and water level and flow level. To collect data of mentioned natural factors the system consists of different sensors which collects data for individual parameters, for detecting water level using water level sensor.
 
 # EQIUPNMENT USED
 
