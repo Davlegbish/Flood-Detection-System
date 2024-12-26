@@ -49,3 +49,23 @@ At this stage the data processed by the application of the Arduino, will be tran
 D.	Notification stage
 This stage involves the use of SIM900 to notify the three- water levels (HIGH), (MEDIUM) and (LOW) which will notify in form of text message (SMS) and call.
 
+
+
+
+
+![imgcompressors-IMG20230602184844](https://github.com/user-attachments/assets/e8b1a83f-cb1b-4c35-9af9-5b62068c3ec7)
+
+
+
+
+
+![imgcompressors-IMG20230602185241](https://github.com/user-attachments/assets/0a146adc-1358-4da1-b10a-2cdbe7544461)
+
+
+
+
+
+
+
+
+
