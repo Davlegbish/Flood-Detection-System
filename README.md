@@ -53,7 +53,33 @@ This stage involves the use of SIM900 to notify the three- water levels (HIGH), 
 
 
 
+
+
+
+
+
+
+
+
+
+
 ![imgcompressors-IMG20230602184844](https://github.com/user-attachments/assets/e8b1a83f-cb1b-4c35-9af9-5b62068c3ec7)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
